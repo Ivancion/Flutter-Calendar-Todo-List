@@ -1,16 +1,16 @@
-# calendar_todo_list
+# Calendar (self written)
+App was written with using of Clean Architecture, Drift Database and Bloc as state manager.
 
-A new Flutter project.
+# Functionality
+It is possible to add, delete and watch tasks by day in the calendar.
 
-## Getting Started
+## Screenshots from the program
 
-This project is a starting point for a Flutter application.
+<p>Calendar screen</p>
+<img src="screenshots/calendar_screen.png" alt="" width="300">
 
-A few resources to get you started if this is your first Flutter project:
+<p>Second screen without tasks</p>
+<img src="screenshots/todo_screen_empty.png" alt="" width="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Second screen with tasks</p>
+<img src="screenshots/todo_screen.png" alt="" width="300">
