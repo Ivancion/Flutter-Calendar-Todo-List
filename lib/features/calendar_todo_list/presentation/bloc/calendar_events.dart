@@ -1,0 +1,1 @@
+enum CalendarEvent { showNextMonth, showPreviousMonth }
